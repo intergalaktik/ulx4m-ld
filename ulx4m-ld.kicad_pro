@@ -1786,7 +1786,7 @@
     },
     "bom_presets": [],
     "bom_settings": {
-      "exclude_dnp": false,
+      "exclude_dnp": true,
       "fields_ordered": [
         {
           "group_by": false,
@@ -1816,7 +1816,7 @@
           "group_by": false,
           "label": "Qty",
           "name": "${QUANTITY}",
-          "show": true
+          "show": false
         },
         {
           "group_by": false,
@@ -1864,13 +1864,13 @@
           "group_by": false,
           "label": "Digike_y1",
           "name": "Digike_y1",
-          "show": false
+          "show": true
         },
         {
           "group_by": false,
           "label": "Digike_y2",
           "name": "Digike_y2",
-          "show": false
+          "show": true
         },
         {
           "group_by": false,
@@ -1888,43 +1888,43 @@
           "group_by": false,
           "label": "Dtasheet4",
           "name": "Dtasheet4",
-          "show": false
+          "show": true
         },
         {
           "group_by": false,
           "label": "EMPTY_MPN",
           "name": "EMPTY_MPN",
-          "show": false
+          "show": true
         },
         {
           "group_by": false,
           "label": "Koncar",
           "name": "Koncar",
-          "show": false
+          "show": true
         },
         {
           "group_by": false,
           "label": "LCSC",
           "name": "LCSC",
-          "show": false
+          "show": true
         },
         {
           "group_by": false,
           "label": "LCS_C2",
           "name": "LCS_C2",
-          "show": false
+          "show": true
         },
         {
           "group_by": false,
           "label": "LowCost",
           "name": "LowCost",
-          "show": false
+          "show": true
         },
         {
           "group_by": false,
           "label": "MANUFACTURER",
           "name": "MANUFACTURER",
-          "show": false
+          "show": true
         },
         {
           "group_by": false,
@@ -1936,13 +1936,13 @@
           "group_by": false,
           "label": "MFG1",
           "name": "MFG1",
-          "show": false
+          "show": true
         },
         {
           "group_by": false,
           "label": "MFG2",
           "name": "MFG2",
-          "show": false
+          "show": true
         },
         {
           "group_by": false,
@@ -1954,19 +1954,19 @@
           "group_by": false,
           "label": "MFG4",
           "name": "MFG4",
-          "show": false
+          "show": true
         },
         {
           "group_by": false,
           "label": "MNF1_URL",
           "name": "MNF1_URL",
-          "show": false
+          "show": true
         },
         {
           "group_by": false,
           "label": "MNF2_URL",
           "name": "MNF2_URL",
-          "show": false
+          "show": true
         },
         {
           "group_by": false,
@@ -1978,13 +1978,13 @@
           "group_by": false,
           "label": "MNF4_URL",
           "name": "MNF4_URL",
-          "show": false
+          "show": true
         },
         {
           "group_by": false,
           "label": "MPN",
           "name": "MPN",
-          "show": false
+          "show": true
         },
         {
           "group_by": false,
@@ -2038,13 +2038,13 @@
           "group_by": false,
           "label": "Mouse_r",
           "name": "Mouse_r",
-          "show": false
+          "show": true
         },
         {
           "group_by": false,
           "label": "Mouse_r1",
           "name": "Mouse_r1",
-          "show": false
+          "show": true
         },
         {
           "group_by": false,

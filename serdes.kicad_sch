@@ -13343,7 +13343,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "00000000-0000-0000-0000-00006350e877")
 		(property "Reference" "C?"
 			(at 191.77 111.76 90)
@@ -13414,7 +13414,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "00000000-0000-0000-0000-00006350fd45")
 		(property "Reference" "C?"
 			(at 191.77 115.57 90)
@@ -13485,7 +13485,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "00000000-0000-0000-0000-000063513ba5")
 		(property "Reference" "C?"
 			(at 191.77 119.38 90)
@@ -13556,7 +13556,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "00000000-0000-0000-0000-000063514512")
 		(property "Reference" "C?"
 			(at 191.77 123.19 90)
